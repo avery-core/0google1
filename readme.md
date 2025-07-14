@@ -1,4 +1,4 @@
-# webview-home
+# webview-home created by ditchcros
 A home page that is designed with ChromeOS webviews in mind.\
 <img src="assets/preview.png">
 
