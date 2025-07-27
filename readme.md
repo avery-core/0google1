@@ -8,6 +8,7 @@ https://catppuccin-home.neocities.org
 
 ## URL only
 http://Cloodie500.github.io/Pages
+https://code.appinventor.mit.edu
 
 ## Pastes
 `console.log("https://catppuccin-home.neocities.org")` \
